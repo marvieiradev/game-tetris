@@ -6,6 +6,7 @@ body{
     font-family: 'VT323', monospace;
     font-size: 2em;
     text-align: center;
+
 }
 
 #score {
@@ -18,7 +19,7 @@ body{
     width: 55.5vmin;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    margin: auto;
 }
 
 canvas{
